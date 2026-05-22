@@ -4,7 +4,7 @@ authors:
 - family-names: Nicholas
   given-names: Moi
   orcid: "https://orcid.org/0000-0000-0000-0000"
-title: moi-taiga/climate-analysis: Zenodo DOI release
+title:"moi-taiga/climate-analysis: Zenodo DOI release"
 version: 1.0.1
 date-released: 2026-05-22
 doi: 10.5072/zenodo.503284
